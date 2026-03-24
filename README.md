@@ -1,22 +1,29 @@
-﻿# Hi, I'm Naghm Ebrahem נ‘‹
+# Hi, I'm Naghm Ebrahem
 
-Junior Software Developer | Python, Java, SQL, Web Development
+Junior Software Developer focused on backend and full-stack development.
 
-I build practical software projects and focus on clean architecture, documentation, and real-world problem solving.
+I build practical projects with clean structure, clear documentation, and production-oriented workflows.
 
-## Tech Stack
+## Core Skills
 - Languages: Python, Java, JavaScript, SQL
-- Backend: Django / Node.js / Spring Boot
+- Backend: Django, Node.js, Spring Boot
 - Frontend: Flutter, HTML, CSS
 - Databases: MongoDB, MySQL
-- Tools: Git, GitHub, VS Code, Postman, Firebase
+- Tools: Git, GitHub, Postman, Firebase, VS Code
 
-## Featured Projects
-- [ChatApp](https://github.com/NaghmEbrahem30/ChatApp) - Real-time chat app with authentication and persistent messaging.
-- [Jenkins](https://github.com/NaghmEbrahem30/Jenkins) - CI/CD focused repository.
-- [DataProject](https://github.com/NaghmEbrahem30/DataProject) - Data-focused project and analysis workflow.
-- [FinalProject](https://github.com/NaghmEbrahem30/FinalProject) - End-to-end final project implementation.
+## Selected Projects
+- [ChatApp](https://github.com/NaghmEbrahem30/ChatApp)  
+  Real-time chat platform with authentication, WebSocket communication, and persistent message storage.
+
+- [FinalProject](https://github.com/NaghmEbrahem30/FinalProject)  
+  End-to-end application project demonstrating architecture, feature implementation, and delivery.
+
+- [DataProject](https://github.com/NaghmEbrahem30/DataProject)  
+  Data workflow project with notebook-based analysis and structured outputs.
+
+- [Jenkins](https://github.com/NaghmEbrahem30/Jenkins)  
+  CI/CD-focused repository for build automation and pipeline practice.
 
 ## Contact
 - Email: naghmal@ac.sce.ac.il
-- LinkedIn: https://www.linkedin.com/in/naghm-alatrsh-696483273/
+- LinkedIn: [linkedin.com/in/naghm-alatrsh-696483273](https://www.linkedin.com/in/naghm-alatrsh-696483273/)
