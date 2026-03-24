@@ -1,4 +1,4 @@
-# Hi, I'm Naghm Ebrahem
+# Hi, I'm Naghm Alatrsh
 
 Backend-focused Software Developer building production-style services across multiple stacks.
 
