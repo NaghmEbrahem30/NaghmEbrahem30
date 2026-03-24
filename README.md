@@ -12,6 +12,24 @@ I build practical projects with clean structure, clear documentation, and produc
 - Tools: Git, GitHub, Postman, Firebase, VS Code
 
 ## Selected Projects
+- [Java Inventory Management Platform](https://github.com/NaghmEbrahem30/java-inventory-management-platform)  
+  Spring Boot + PostgreSQL inventory backend with stock movement and reservation workflows.
+
+- [Python Customer Analytics Platform](https://github.com/NaghmEbrahem30/python-customer-analytics-platform)  
+  FastAPI + PostgreSQL analytics service for event ingestion and customer/cohort KPI aggregation.
+
+- [Java Order Orchestration Service](https://github.com/NaghmEbrahem30/java-order-orchestration-service)  
+  Enterprise Spring Boot backend implementing multi-stage order workflow orchestration.
+
+- [Java ML Risk Scoring Engine](https://github.com/NaghmEbrahem30/java-ml-risk-scoring-engine)  
+  Transaction risk scoring API with feature-based decisioning and production-style architecture.
+
+- [AI RAG Assistant Service](https://github.com/NaghmEbrahem30/ai-rag-assistant-service)  
+  Retrieval-augmented AI backend with document ingestion, semantic retrieval, Docker, and CI.
+
+- [Data Anomaly Detection Pipeline](https://github.com/NaghmEbrahem30/data-anomaly-detection-pipeline)  
+  End-to-end data pipeline for quality checks, anomaly detection, and reproducible outputs.
+
 - [Senior Auth Service](https://github.com/NaghmEbrahem30/senior-auth-service)  
   Production-style authentication API with JWT, Docker, automated tests, and CI.
 
