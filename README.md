@@ -12,6 +12,15 @@ I build practical projects with clean structure, clear documentation, and produc
 - Tools: Git, GitHub, Postman, Firebase, VS Code
 
 ## Selected Projects
+- [Senior Auth Service](https://github.com/NaghmEbrahem30/senior-auth-service)  
+  Production-style authentication API with JWT, Docker, automated tests, and CI.
+
+- [Event-Driven Orders Service](https://github.com/NaghmEbrahem30/event-driven-orders-service)  
+  Order processing backend implementing event-driven flow, worker processing, and test coverage.
+
+- [Feature Flag Service](https://github.com/NaghmEbrahem30/feature-flag-service)  
+  Runtime feature management API with deterministic user rollout and CI automation.
+
 - [Realtime Chat Platform](https://github.com/NaghmEbrahem30/realtime-chat-platform)  
   Real-time chat platform with authentication, WebSocket communication, and persistent message storage.
 
