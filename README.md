@@ -12,16 +12,16 @@ I build practical projects with clean structure, clear documentation, and produc
 - Tools: Git, GitHub, Postman, Firebase, VS Code
 
 ## Selected Projects
-- [ChatApp](https://github.com/NaghmEbrahem30/ChatApp)  
+- [Realtime Chat Platform](https://github.com/NaghmEbrahem30/realtime-chat-platform)  
   Real-time chat platform with authentication, WebSocket communication, and persistent message storage.
 
-- [FinalProject](https://github.com/NaghmEbrahem30/FinalProject)  
+- [Flutter Fullstack Final Project](https://github.com/NaghmEbrahem30/flutter-fullstack-final-project)  
   End-to-end application project demonstrating architecture, feature implementation, and delivery.
 
-- [DataProject](https://github.com/NaghmEbrahem30/DataProject)  
+- [Data Analysis Notebooks](https://github.com/NaghmEbrahem30/data-analysis-notebooks)  
   Data workflow project with notebook-based analysis and structured outputs.
 
-- [Jenkins](https://github.com/NaghmEbrahem30/Jenkins)  
+- [CI/CD Pipeline Jenkins](https://github.com/NaghmEbrahem30/ci-cd-pipeline-jenkins)  
   CI/CD-focused repository for build automation and pipeline practice.
 
 ## Contact
