@@ -1,55 +1,50 @@
 # Hi, I'm Naghm Ebrahem
 
-Junior Software Developer focused on backend and full-stack development.
+Backend-focused Software Developer building production-style services across multiple stacks.
 
-I build practical projects with clean structure, clear documentation, and production-oriented workflows.
+I design practical systems with clean architecture, API-first thinking, automated testing, Dockerized environments, and CI workflows.
 
-## Core Skills
-- Languages: Python, Java, JavaScript, SQL
-- Backend: Django, Node.js, Spring Boot
-- Frontend: Flutter, HTML, CSS
-- Databases: MongoDB, MySQL
-- Tools: Git, GitHub, Postman, Firebase, VS Code
+## What I Build
+- Backend APIs with layered architecture (`api`, `application`, `domain`, `infrastructure`)
+- Event-driven and workflow-oriented services
+- Data and AI services (RAG, analytics, anomaly detection)
+- Full-stack implementations when product scope requires it
 
-## Selected Projects
-- [Java Inventory Management Platform](https://github.com/NaghmEbrahem30/java-inventory-management-platform)  
-  Spring Boot + PostgreSQL inventory backend with stock movement and reservation workflows.
+## Technical Stack
+- Languages: Python, Java, JavaScript/TypeScript, C#, Go, Kotlin, Ruby, Rust, PHP, SQL
+- Backend: FastAPI, Spring Boot, Node.js/Express, .NET, Django
+- Databases: PostgreSQL, MySQL, SQL Server, MongoDB, Redis, ClickHouse, Cassandra, Elasticsearch, MariaDB
+- DevOps: Docker, Docker Compose, GitHub Actions, Jenkins, Postman
 
-- [Python Customer Analytics Platform](https://github.com/NaghmEbrahem30/python-customer-analytics-platform)  
-  FastAPI + PostgreSQL analytics service for event ingestion and customer/cohort KPI aggregation.
+## Featured Production-Style Repositories
+- [auth-service-go-postgres](https://github.com/NaghmEbrahem30/auth-service-go-postgres)  
+  Authentication API with service/repository layering, token-based auth flow, tests, Docker, and CI.
 
-- [Java Order Orchestration Service](https://github.com/NaghmEbrahem30/java-order-orchestration-service)  
-  Enterprise Spring Boot backend implementing multi-stage order workflow orchestration.
+- [booking-service-node-mongodb](https://github.com/NaghmEbrahem30/booking-service-node-mongodb)  
+  Booking API with modular Node architecture, request validation, protected endpoints, tests, and CI.
 
-- [Java ML Risk Scoring Engine](https://github.com/NaghmEbrahem30/java-ml-risk-scoring-engine)  
-  Transaction risk scoring API with feature-based decisioning and production-style architecture.
+- [orders-service-java-mysql](https://github.com/NaghmEbrahem30/orders-service-java-mysql)  
+  Java service starter for order lifecycle and workflow-oriented backend design.
 
-- [AI RAG Assistant Service](https://github.com/NaghmEbrahem30/ai-rag-assistant-service)  
-  Retrieval-augmented AI backend with document ingestion, semantic retrieval, Docker, and CI.
+- [payments-service-dotnet-sqlserver](https://github.com/NaghmEbrahem30/payments-service-dotnet-sqlserver)  
+  .NET payment-oriented backend baseline with SQL Server integration structure.
 
-- [Data Anomaly Detection Pipeline](https://github.com/NaghmEbrahem30/data-anomaly-detection-pipeline)  
-  End-to-end data pipeline for quality checks, anomaly detection, and reproducible outputs.
+- [analytics-service-python-clickhouse](https://github.com/NaghmEbrahem30/analytics-service-python-clickhouse)  
+  Python analytics service baseline for high-volume event analytics scenarios.
 
-- [Senior Auth Service](https://github.com/NaghmEbrahem30/senior-auth-service)  
-  Production-style authentication API with JWT, Docker, automated tests, and CI.
+- [search-service-ts-elasticsearch](https://github.com/NaghmEbrahem30/search-service-ts-elasticsearch)  
+  TypeScript search service baseline structured for scalable indexing and retrieval.
 
-- [Event-Driven Orders Service](https://github.com/NaghmEbrahem30/event-driven-orders-service)  
-  Order processing backend implementing event-driven flow, worker processing, and test coverage.
+## Additional Selected Projects
+- [java-inventory-management-platform](https://github.com/NaghmEbrahem30/java-inventory-management-platform)
+- [python-customer-analytics-platform](https://github.com/NaghmEbrahem30/python-customer-analytics-platform)
+- [java-order-orchestration-service](https://github.com/NaghmEbrahem30/java-order-orchestration-service)
+- [java-ml-risk-scoring-engine](https://github.com/NaghmEbrahem30/java-ml-risk-scoring-engine)
+- [ai-rag-assistant-service](https://github.com/NaghmEbrahem30/ai-rag-assistant-service)
+- [data-anomaly-detection-pipeline](https://github.com/NaghmEbrahem30/data-anomaly-detection-pipeline)
 
-- [Feature Flag Service](https://github.com/NaghmEbrahem30/feature-flag-service)  
-  Runtime feature management API with deterministic user rollout and CI automation.
-
-- [Realtime Chat Platform](https://github.com/NaghmEbrahem30/realtime-chat-platform)  
-  Real-time chat platform with authentication, WebSocket communication, and persistent message storage.
-
-- [Flutter Fullstack Final Project](https://github.com/NaghmEbrahem30/flutter-fullstack-final-project)  
-  End-to-end application project demonstrating architecture, feature implementation, and delivery.
-
-- [Data Analysis Notebooks](https://github.com/NaghmEbrahem30/data-analysis-notebooks)  
-  Data workflow project with notebook-based analysis and structured outputs.
-
-- [CI/CD Pipeline Jenkins](https://github.com/NaghmEbrahem30/ci-cd-pipeline-jenkins)  
-  CI/CD-focused repository for build automation and pipeline practice.
+## Career Goal
+I am actively seeking a Backend Developer role where I can contribute to real products, improve system reliability, and grow into a strong software engineer through production work.
 
 ## Contact
 - Email: naghmal@ac.sce.ac.il
